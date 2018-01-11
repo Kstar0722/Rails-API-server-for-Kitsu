@@ -1,0 +1,1 @@
+class MangaController < ApplicationController; end

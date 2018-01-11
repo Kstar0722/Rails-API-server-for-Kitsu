@@ -1,0 +1,2 @@
+class CastingPolicy < ApplicationPolicy
+end

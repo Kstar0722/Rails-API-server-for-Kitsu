@@ -1,0 +1,1 @@
+class FranchisesController < ApplicationController; end
